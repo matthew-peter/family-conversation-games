@@ -1,0 +1,138 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animals",
+      "emoji": "🐾",
+      "words": [
+        "Dog", "Cat", "Elephant", "Giraffe", "Lion", "Tiger", "Bear", "Monkey", "Penguin", "Kangaroo",
+        "Rabbit", "Squirrel", "Deer", "Fox", "Wolf", "Horse", "Cow", "Pig", "Chicken", "Duck",
+        "Eagle", "Owl", "Parrot", "Flamingo", "Peacock", "Swan", "Shark", "Whale", "Dolphin", "Octopus",
+        "Crab", "Lobster", "Jellyfish", "Turtle", "Snake", "Lizard", "Frog", "Butterfly", "Spider", "Ant",
+        "Bee", "Ladybug", "Snail", "Mouse", "Hamster", "Hedgehog", "Porcupine", "Skunk", "Raccoon", "Beaver"
+      ]
+    },
+    "sports": {
+      "name": "Sports & Equipment",
+      "emoji": "⚽",
+      "words": [
+        "Soccer ball", "Football", "Basketball", "Baseball bat", "Tennis racket", "Golf club", "Hockey stick",
+        "Skateboard", "Surfboard", "Snowboard", "Skis", "Ice skates", "Roller skates", "Bicycle", "Helmet",
+        "Boxing gloves", "Punching bag", "Jump rope", "Hula hoop", "Frisbee", "Boomerang", "Bow and arrow",
+        "Target", "Fishing rod", "Fishing net", "Kayak", "Canoe", "Paddle", "Life jacket", "Snorkel",
+        "Diving mask", "Swimming pool", "Diving board", "Trampoline", "Gymnast rings", "Balance beam",
+        "Hurdle", "Starting blocks", "Stopwatch", "Medal", "Trophy", "Scoreboard", "Whistle", "Referee",
+        "Goal post", "Basketball hoop", "Baseball diamond", "Tennis court", "Bowling pins", "Bowling ball"
+      ]
+    },
+    "nature": {
+      "name": "Nature & Outdoors",
+      "emoji": "🌲",
+      "words": [
+        "Tree", "Flower", "Mountain", "Volcano", "Waterfall", "River", "Lake", "Ocean", "Beach", "Island",
+        "Forest", "Jungle", "Desert", "Cactus", "Palm tree", "Pine tree", "Oak tree", "Leaf", "Acorn", "Mushroom",
+        "Rainbow", "Cloud", "Sun", "Moon", "Star", "Lightning", "Tornado", "Snowflake", "Icicle", "Glacier",
+        "Cave", "Canyon", "Valley", "Hill", "Cliff", "Rock", "Boulder", "Pebble", "Sand", "Wave",
+        "Sunrise", "Sunset", "Campfire", "Tent", "Sleeping bag", "Compass", "Map", "Trail", "Bridge", "Fence"
+      ]
+    },
+    "food": {
+      "name": "Food & Kitchen",
+      "emoji": "🍕",
+      "words": [
+        "Pizza", "Hamburger", "Hot dog", "Sandwich", "Taco", "Burrito", "Spaghetti", "Macaroni", "Lasagna", "Soup",
+        "Salad", "Bread", "Toast", "Pancakes", "Waffles", "Eggs", "Bacon", "Sausage", "Cereal", "Oatmeal",
+        "Apple", "Banana", "Orange", "Grapes", "Strawberry", "Watermelon", "Pineapple", "Cherry", "Lemon", "Coconut",
+        "Carrot", "Broccoli", "Corn", "Potato", "Tomato", "Onion", "Pepper", "Cucumber", "Lettuce", "Peas",
+        "Ice cream", "Cake", "Cupcake", "Cookie", "Donut", "Pie", "Candy", "Chocolate", "Lollipop", "Gum",
+        "Frying pan", "Pot", "Oven", "Toaster", "Blender", "Cutting board", "Knife", "Fork", "Spoon", "Plate"
+      ]
+    },
+    "household": {
+      "name": "Around the House",
+      "emoji": "🏠",
+      "words": [
+        "House", "Door", "Window", "Roof", "Chimney", "Stairs", "Ladder", "Fence", "Mailbox", "Garage",
+        "Bed", "Pillow", "Blanket", "Lamp", "Clock", "Mirror", "Picture frame", "Curtains", "Rug", "Couch",
+        "Chair", "Table", "Desk", "Bookshelf", "Closet", "Drawer", "Cabinet", "Refrigerator", "Sink", "Bathtub",
+        "Shower", "Toilet", "Towel", "Soap", "Toothbrush", "Hairbrush", "Vacuum", "Broom", "Mop", "Bucket",
+        "Washing machine", "Iron", "Fan", "Air conditioner", "Fireplace", "Candle", "Light bulb", "Outlet", "Remote control"
+      ]
+    },
+    "transportation": {
+      "name": "Vehicles & Travel",
+      "emoji": "🚗",
+      "words": [
+        "Car", "Truck", "Bus", "Train", "Airplane", "Helicopter", "Boat", "Ship", "Submarine", "Rocket",
+        "Bicycle", "Motorcycle", "Scooter", "Skateboard", "Roller skates", "Hot air balloon", "Parachute",
+        "Ambulance", "Fire truck", "Police car", "Taxi", "School bus", "Tractor", "Bulldozer", "Crane",
+        "Forklift", "Dump truck", "Cement mixer", "Garbage truck", "Ice cream truck", "Food truck",
+        "Canoe", "Kayak", "Sailboat", "Jet ski", "Ferry", "Cruise ship", "Anchor", "Lighthouse",
+        "Traffic light", "Stop sign", "Crosswalk", "Highway", "Bridge", "Tunnel", "Parking lot", "Gas station"
+      ]
+    },
+    "clothing": {
+      "name": "Clothing & Accessories",
+      "emoji": "👕",
+      "words": [
+        "Shirt", "Pants", "Shorts", "Dress", "Skirt", "Jacket", "Coat", "Sweater", "Hoodie", "Vest",
+        "Socks", "Shoes", "Boots", "Sandals", "Slippers", "Sneakers", "High heels", "Belt", "Tie", "Bow tie",
+        "Hat", "Cap", "Beanie", "Helmet", "Crown", "Headband", "Sunglasses", "Glasses", "Watch", "Bracelet",
+        "Necklace", "Ring", "Earrings", "Scarf", "Gloves", "Mittens", "Umbrella", "Purse", "Backpack", "Wallet",
+        "Zipper", "Button", "Pocket", "Sleeve", "Collar", "Apron", "Pajamas", "Bathrobe", "Swimsuit", "Costume"
+      ]
+    },
+    "school": {
+      "name": "School & Office",
+      "emoji": "📚",
+      "words": [
+        "Book", "Pencil", "Pen", "Eraser", "Ruler", "Scissors", "Glue", "Tape", "Stapler", "Paper clip",
+        "Notebook", "Folder", "Binder", "Backpack", "Lunch box", "Water bottle", "Desk", "Chair", "Chalkboard", "Whiteboard",
+        "Marker", "Chalk", "Globe", "Map", "Calculator", "Computer", "Keyboard", "Mouse", "Printer", "Projector",
+        "Calendar", "Bulletin board", "Locker", "Bell", "Flag", "Trophy", "Medal", "Certificate", "Report card",
+        "Microscope", "Telescope", "Magnet", "Battery", "Light bulb", "Thermometer", "Scale", "Clock", "Timer"
+      ]
+    },
+    "music": {
+      "name": "Music & Instruments",
+      "emoji": "🎵",
+      "words": [
+        "Piano", "Guitar", "Drums", "Violin", "Trumpet", "Flute", "Saxophone", "Clarinet", "Harmonica", "Accordion",
+        "Banjo", "Ukulele", "Harp", "Cello", "Trombone", "Tuba", "French horn", "Xylophone", "Tambourine", "Triangle",
+        "Maracas", "Bongos", "Cymbal", "Microphone", "Speaker", "Headphones", "Radio", "Record player", "CD",
+        "Music stand", "Sheet music", "Conductor baton", "Metronome", "Tuning fork", "Music note", "Treble clef"
+      ]
+    },
+    "tools": {
+      "name": "Tools & Building",
+      "emoji": "🔧",
+      "words": [
+        "Hammer", "Nail", "Screw", "Screwdriver", "Wrench", "Pliers", "Saw", "Drill", "Level", "Tape measure",
+        "Ladder", "Toolbox", "Paintbrush", "Paint roller", "Paint can", "Bucket", "Wheelbarrow", "Shovel", "Rake", "Hoe",
+        "Axe", "Chainsaw", "Lawnmower", "Hedge trimmer", "Hose", "Sprinkler", "Watering can", "Flowerpot", "Wheelbarrow",
+        "Brick", "Cement", "Wood plank", "Beam", "Pipe", "Wire", "Light switch", "Door knob", "Hinge", "Lock and key"
+      ]
+    },
+    "fantasy": {
+      "name": "Fantasy & Fun",
+      "emoji": "🧙",
+      "words": [
+        "Castle", "Crown", "Throne", "Dragon", "Unicorn", "Mermaid", "Fairy", "Wizard", "Witch", "Magic wand",
+        "Crystal ball", "Treasure chest", "Pirate ship", "Skull and crossbones", "Treasure map", "Knight armor", "Shield", "Sword",
+        "Bow and arrow", "Catapult", "Drawbridge", "Moat", "Tower", "Dungeon", "Ghost", "Vampire", "Werewolf",
+        "Zombie", "Monster", "Alien", "UFO", "Robot", "Spaceship", "Planet", "Comet", "Black hole",
+        "Superhero cape", "Mask", "Lightning bolt", "Invisible", "Time machine", "Magic carpet", "Genie lamp"
+      ]
+    },
+    "holidays": {
+      "name": "Holidays & Celebrations",
+      "emoji": "🎄",
+      "words": [
+        "Christmas tree", "Ornament", "Wreath", "Candy cane", "Gingerbread house", "Snowman", "Santa Claus", "Reindeer", "Sleigh", "Present",
+        "Stocking", "Fireplace", "Menorah", "Dreidel", "Easter bunny", "Easter egg", "Easter basket", "Chick", "Lamb",
+        "Pumpkin", "Jack-o-lantern", "Ghost", "Witch hat", "Bat", "Spider web", "Skeleton", "Mummy", "Vampire fangs",
+        "Turkey", "Cornucopia", "Pilgrim hat", "Fireworks", "Sparkler", "American flag", "Birthday cake", "Candles", "Balloons",
+        "Party hat", "Confetti", "Streamers", "Pinata", "Gift bow", "Greeting card", "Heart", "Cupid", "Rose"
+      ]
+    }
+  }
+}

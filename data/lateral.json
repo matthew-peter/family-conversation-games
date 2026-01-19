@@ -1,0 +1,170 @@
+[
+  { 
+    "q": "A man walks into a bar and asks the barman for a glass of water. The barman pulls out a gun and points it at the man. The man says 'Thank you' and walks out. Why?", 
+    "a": "The man had the hiccups. The gun scared them out of him." 
+  },
+  { 
+    "q": "A man lives on the 10th floor. Every day he takes the elevator down to the ground floor to go to work. When he comes back, he takes the elevator to the 7th floor and walks up the stairs to the 10th. Unless it's raining. Why?", 
+    "a": "The man is very short. He can't reach the button for the 10th floor, only the 7th. When it rains, he has his umbrella to push the button." 
+  },
+  { 
+    "q": "A woman shoots her husband. Then she holds him under water for over 5 minutes. Finally, she hangs him. But 5 minutes later they both go out together and enjoy a wonderful dinner together. How can this be?", 
+    "a": "She is a photographer. She took a picture of him, developed it, and hung it up to dry." 
+  },
+  {
+    "q": "Five pieces of coal, a carrot and a scarf are lying on the lawn. Nobody put them on the lawn but there is a perfectly logical reason why they should be there. What is it?",
+    "a": "They were used by children who built a snowman. The snow has now melted."
+  },
+  {
+    "q": "A man pushes his car to a hotel and tells the owner he's bankrupt. Why?",
+    "a": "He is playing Monopoly."
+  },
+  {
+    "q": "A man is looking at a picture of someone. His friend asks who it is. The man replies, 'Brothers and sisters, I have none. But that man's father is my father's son.' Who is in the picture?",
+    "a": "His son."
+  },
+  {
+    "q": "A woman has two children. One is a boy. What is the probability that the other child is also a boy?",
+    "a": "One third. The possible combinations are: Boy-Boy, Boy-Girl, Girl-Boy. Since we know one is a boy, only one of the three remaining possibilities has two boys."
+  },
+  {
+    "q": "A man rode into town on Friday. He stayed for three nights and then left on Friday. How is this possible?",
+    "a": "His horse's name is Friday."
+  },
+  {
+    "q": "There are three switches downstairs. Each corresponds to one of three light bulbs upstairs. You can only go upstairs once. How do you determine which switch controls which bulb?",
+    "a": "Turn on switch 1 for a few minutes, then turn it off and turn on switch 2. Go upstairs. The hot bulb is switch 1, the lit bulb is switch 2, and the cold dark bulb is switch 3."
+  },
+  {
+    "q": "A man walks into a restaurant and asks for a glass of water. The waiter pulls out a gun and aims it at him. The man says thank you and leaves. What happened?",
+    "a": "The man had hiccups, and the shock from the gun cured them."
+  },
+  {
+    "q": "A woman is sitting in her hotel room when there's a knock at the door. She opens it to find a man she's never seen before. He says 'Oh I'm sorry, I thought this was my room' and walks away. The woman immediately calls security. Why?",
+    "a": "You don't knock on your own hotel room door. He was clearly lying and probably trying to see if the room was occupied before breaking in."
+  },
+  {
+    "q": "Two fathers and two sons went fishing. Each caught one fish, but only three fish were caught. How is this possible?",
+    "a": "There were only three people: a grandfather, his son, and his grandson. The son is both a father and a son."
+  },
+  {
+    "q": "A man is found dead in a field. Next to him is an unopened package. There are no other creatures in the field. How did he die?",
+    "a": "The package was a parachute that didn't open."
+  },
+  {
+    "q": "A man was walking home from work when it started to rain. He had no umbrella, no hat, nothing to cover his head. When he got home, not a single hair on his head was wet. How?",
+    "a": "He was bald."
+  },
+  {
+    "q": "A windowless building has 10 floors. A dead man is found in an elevator between the 5th and 6th floors. There is nothing but a puddle of water beneath him. How did he die?",
+    "a": "He was an ice cube that melted."
+  },
+  {
+    "q": "A man is driving his car. He turns on the radio, listens for five minutes, then kills himself. Why?",
+    "a": "He was a radio DJ who made a recording that was supposed to air while he was away to give himself an alibi for a crime. When he heard it playing, he realized the police would know the truth."
+  },
+  {
+    "q": "A man lives in a house with four walls. All the walls face south. A bear walks past the house. What color is the bear?",
+    "a": "White. The only place where all walls can face south is the North Pole, so it must be a polar bear."
+  },
+  {
+    "q": "A man enters an elevator. He presses the button for the 5th floor. When the elevator arrives, he steps out, walks down the hall, and jumps out a window. Yet he is not hurt. How?",
+    "a": "He's a window cleaner and jumped out to clean the outside of the building while secured by safety equipment."
+  },
+  {
+    "q": "There's a dead man in the middle of a desert. He's naked. He's holding a straw. How did he die?",
+    "a": "He was in a hot air balloon that was going down. They drew straws to see who would jump to lighten the load. He lost."
+  },
+  {
+    "q": "A man was born in 1955. Today is his 30th birthday. How is this possible?",
+    "a": "He was born in hospital room 1955."
+  },
+  {
+    "q": "A man pushes his car until he reaches a hotel. When he arrives, he realizes he's bankrupt. What's going on?",
+    "a": "He's playing Monopoly."
+  },
+  {
+    "q": "A man dies and goes to heaven. There are thousands of other people there. They are all naked and look as they did at age 21. He looks around to see if there is anyone he recognizes. He sees a couple and immediately knows they are Adam and Eve. How?",
+    "a": "They don't have belly buttons because they weren't born—they were created."
+  },
+  {
+    "q": "A horse jumps over a castle, and the castle disappears. How is this possible?",
+    "a": "It's a chess game. The knight (horse) takes the rook (castle)."
+  },
+  {
+    "q": "A woman wakes up every morning, walks to her window, and looks outside. Then she screams. Why?",
+    "a": "She's a lighthouse keeper. The light went out and a ship crashed."
+  },
+  {
+    "q": "A man is found dead in a desert, holding half of a matchstick. What happened?",
+    "a": "He and others were in a hot air balloon that was going down. They drew matches to see who would jump out. He got the short match."
+  },
+  {
+    "q": "Two coins add up to 30 cents. One of them is not a nickel. What are the coins?",
+    "a": "A quarter and a nickel. One of them is not a nickel—the quarter."
+  },
+  {
+    "q": "How can you drop a raw egg onto a concrete floor without cracking it?",
+    "a": "Concrete floors are very hard to crack with an egg."
+  },
+  {
+    "q": "A man enters a phone booth, makes a call, and then dies. Why?",
+    "a": "He was scuba diving in the ocean. When the phone booth was submerged, he entered to make a desperate call. When he opened the door, the water came in."
+  },
+  {
+    "q": "A woman is alone on an island. She has food and water but calls for help anyway. A ship comes but she refuses to board it. Why?",
+    "a": "She's in a reality TV show and waiting for rescue would mean losing the prize money."
+  },
+  {
+    "q": "A man walks into a bar and asks for a drink. The bartender takes out a gun and shoots him. Why?",
+    "a": "It was a water gun. The customer came in dripping wet and asked for water. The bartender misheard and thought he wanted more water."
+  },
+  {
+    "q": "Antony and Cleopatra are lying dead on the floor of an Egyptian villa. Nearby is a broken glass bowl. There is no mark on either body, and they were not poisoned. How did they die?",
+    "a": "Antony and Cleopatra are goldfish. Their bowl was knocked over and they died."
+  },
+  {
+    "q": "A man wakes up one night to get a drink of water. He turns off the light and goes back to bed. The next morning, he looks out the window, screams, and shoots himself. Why?",
+    "a": "He worked in a lighthouse. By turning off the light, he caused ships to crash. When he saw the wreckage in the morning, he couldn't live with the guilt."
+  },
+  {
+    "q": "A woman buys a brand new pair of shoes, goes to work, and dies. Why?",
+    "a": "She was the assistant to a knife-thrower. Her new shoes had slightly higher heels than her old ones."
+  },
+  {
+    "q": "A body is discovered at a country house in the middle of summer. Evidence shows it died several months ago. Yet nobody in the house noticed anything unusual until now. Why?",
+    "a": "The body was in the freezer."
+  },
+  {
+    "q": "Romeo and Juliet are found dead on the floor. The only evidence is some water and broken glass. What happened?",
+    "a": "Romeo and Juliet are fish. The cat knocked over their fishbowl."
+  },
+  {
+    "q": "A man throws something out of a window and dies. What happened?",
+    "a": "He threw a boomerang."
+  },
+  {
+    "q": "A deaf man needs to buy a saw. He goes to the hardware store. How does he tell the clerk what he wants?",
+    "a": "He says, 'I would like to buy a saw.' Being deaf doesn't mean he can't speak."
+  },
+  {
+    "q": "A man lies dead in a room with 53 bicycles around him. What happened?",
+    "a": "He was cheating at poker. The 'bicycles' are a brand of playing cards."
+  },
+  {
+    "q": "A woman walks into a store and buys: 1 potato, 2 tomatoes, 3 lemons, 4 apples, 5 bananas. What day is it?",
+    "a": "January 2, 3, 4, 5... it's December 12th (1-2-3-4-5 = 12345, December 12 in a European date format, or the 12th day pattern)."
+  },
+  {
+    "q": "A man escapes from prison and walks for seven miles, but nobody tries to capture him. Why?",
+    "a": "He was a prison guard."
+  },
+  {
+    "q": "A man leaves home, walks a block, turns left, walks another block, turns left again, walks a block, turns left one more time, and returns home to find two masked men waiting for him. Who are the masked men?",
+    "a": "The catcher and the umpire. The man was running the bases in a baseball game."
+  },
+  {
+    "q": "A man enters a room, looks at a mirror, and starts to cry. Why?",
+    "a": "He's at a funhouse. The distorted mirror makes him look thin, and he realizes how overweight he's become."
+  }
+]

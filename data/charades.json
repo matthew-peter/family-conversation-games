@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animals",
+      "emoji": "🐾",
+      "prompts": [
+        "Elephant", "Kangaroo", "Penguin", "Giraffe", "Monkey", "Snake", "Eagle", "Dolphin", "Bear", "Tiger",
+        "Lion", "Rabbit", "Frog", "Chicken", "Duck", "Gorilla", "Flamingo", "Butterfly", "Spider", "Bee",
+        "Crocodile", "Shark", "Whale", "Octopus", "Crab", "Turtle", "Horse", "Pig", "Cow", "Sheep",
+        "Dog chasing tail", "Cat stretching", "Bird building nest", "Squirrel hiding nuts", "Fish swimming",
+        "Rooster crowing", "Owl hooting", "Wolf howling", "Seal balancing ball", "Peacock showing feathers"
+      ]
+    },
+    "sports": {
+      "name": "Sports & Activities",
+      "emoji": "⚽",
+      "prompts": [
+        "Soccer player scoring goal", "Basketball slam dunk", "Baseball batter", "Football quarterback throw",
+        "Swimming freestyle", "Diving off board", "Gymnastics cartwheel", "Gymnastics balance beam",
+        "Weightlifting", "Rock climbing", "Skateboarding", "Snowboarding", "Skiing downhill", "Ice skating",
+        "Hockey player", "Tennis serve", "Golf swing", "Boxing", "Wrestling", "Martial arts kick",
+        "Volleyball spike", "Archery", "Bowling", "Surfing", "Kayaking", "Rowing", "Running hurdles",
+        "Long jump", "High jump", "Pole vault", "Shot put", "Discus throw", "Javelin throw",
+        "Mountain biking", "BMX tricks", "Cheerleading", "Jump rope", "Hula hoop", "Trampoline jumping",
+        "Catching a football", "Dribbling a basketball", "Batting practice", "Pitcher throwing", "Goalie save"
+      ]
+    },
+    "actions": {
+      "name": "Everyday Actions",
+      "emoji": "🏃",
+      "prompts": [
+        "Brushing teeth", "Taking a shower", "Cooking pancakes", "Washing dishes", "Vacuuming",
+        "Mowing the lawn", "Raking leaves", "Shoveling snow", "Painting a wall", "Hammering a nail",
+        "Tying shoes", "Ironing clothes", "Folding laundry", "Making the bed", "Sweeping floor",
+        "Watering plants", "Walking the dog", "Feeding a baby", "Changing a diaper", "Reading a book",
+        "Writing a letter", "Typing on computer", "Taking a photo", "Blowing nose", "Sneezing",
+        "Yawning", "Stretching", "Doing pushups", "Doing situps", "Jumping jacks",
+        "Climbing stairs", "Opening a door", "Knocking on door", "Ringing doorbell", "Waving goodbye",
+        "Shaking hands", "Giving a hug", "High five", "Thumbs up", "Clapping",
+        "Blowing out candles", "Opening presents", "Wrapping a gift", "Setting the table", "Pouring a drink"
+      ]
+    },
+    "occupations": {
+      "name": "Jobs & Occupations",
+      "emoji": "👷",
+      "prompts": [
+        "Teacher writing on board", "Doctor with stethoscope", "Firefighter with hose", "Police officer",
+        "Chef cooking", "Waiter serving food", "Farmer milking cow", "Construction worker", "Pilot flying plane",
+        "Flight attendant", "Bus driver", "Taxi driver", "Mail carrier", "Garbage collector",
+        "Dentist", "Veterinarian", "Nurse", "Surgeon", "Lifeguard", "Mechanic",
+        "Electrician", "Plumber", "Painter", "Carpenter", "Baker",
+        "Barber cutting hair", "Cashier scanning items", "Referee blowing whistle", "Coach giving pep talk",
+        "Photographer", "News reporter", "Weather forecaster", "DJ playing music", "Conductor leading orchestra",
+        "Ballerina dancing", "Clown juggling", "Magician doing tricks", "Astronaut in space", "Scuba diver",
+        "Archaeologist digging", "Scientist in lab", "Librarian shelving books", "Zookeeper feeding animals"
+      ]
+    },
+    "nature": {
+      "name": "Nature & Weather",
+      "emoji": "🌲",
+      "prompts": [
+        "Tree blowing in wind", "Flower blooming", "Rain falling", "Thunder and lightning",
+        "Snowflake falling", "Tornado spinning", "Volcano erupting", "Earthquake shaking",
+        "Waves crashing", "Waterfall", "River flowing", "Mountain", "Sunset", "Sunrise",
+        "Full moon", "Stars twinkling", "Cloud floating", "Rainbow appearing", "Fog rolling in",
+        "Forest", "Desert with cacti", "Jungle vines", "Beach with palm trees", "Glacier melting",
+        "Fire burning", "Wind blowing", "Hail falling", "Frost forming", "Dew on grass"
+      ]
+    },
+    "emotions": {
+      "name": "Emotions & Feelings",
+      "emoji": "😊",
+      "prompts": [
+        "Very happy", "Extremely sad", "Super angry", "Really scared", "Totally surprised",
+        "Completely confused", "Very tired", "Extremely excited", "Really nervous", "Totally bored",
+        "Very proud", "Extremely embarrassed", "Really disgusted", "Super curious", "Very jealous",
+        "Extremely grateful", "Really worried", "Totally relieved", "Very frustrated", "Extremely silly",
+        "Laughing uncontrollably", "Crying hard", "Screaming in fear", "Jumping for joy", "Sulking",
+        "Being shy", "Being brave", "Being sneaky", "Being patient", "Being impatient"
+      ]
+    },
+    "household": {
+      "name": "Household Items",
+      "emoji": "🏠",
+      "prompts": [
+        "Television", "Refrigerator", "Microwave", "Blender", "Toaster", "Coffee maker",
+        "Washing machine", "Dryer", "Dishwasher", "Vacuum cleaner", "Broom", "Mop",
+        "Lamp", "Ceiling fan", "Air conditioner", "Heater", "Alarm clock", "Mirror",
+        "Bathtub", "Toilet", "Sink", "Shower", "Couch", "Rocking chair",
+        "Bed", "Pillow", "Blanket", "Curtains", "Doorbell", "Mailbox",
+        "Garage door opening", "Fireplace", "Chimney", "Attic", "Basement", "Staircase"
+      ]
+    },
+    "food": {
+      "name": "Food & Cooking",
+      "emoji": "🍳",
+      "prompts": [
+        "Eating spaghetti", "Eating corn on the cob", "Eating watermelon", "Eating ice cream cone",
+        "Drinking hot soup", "Slurping noodles", "Biting into apple", "Peeling banana",
+        "Cracking an egg", "Flipping pancakes", "Rolling pizza dough", "Kneading bread",
+        "Chopping vegetables", "Stirring a pot", "Grilling burgers", "Roasting marshmallows",
+        "Making a sandwich", "Tossing a salad", "Decorating a cake", "Frosting cupcakes",
+        "Squeezing lemon", "Grating cheese", "Scooping ice cream", "Pouring milk in cereal",
+        "Eating something spicy", "Eating something sour", "Brain freeze from cold drink"
+      ]
+    },
+    "transportation": {
+      "name": "Transportation",
+      "emoji": "🚗",
+      "prompts": [
+        "Driving a car", "Riding a bicycle", "Riding a motorcycle", "Riding a horse",
+        "Flying an airplane", "Rowing a boat", "Sailing a sailboat", "Driving a bus",
+        "Driving a train", "Riding a scooter", "Riding a skateboard", "Roller skating",
+        "Riding in a helicopter", "Hot air balloon", "Rocket ship launching",
+        "Driving a tractor", "Driving a fire truck", "Ambulance with siren",
+        "Riding a unicycle", "Riding a tandem bike", "Pushing a shopping cart",
+        "Pulling a wagon", "Pushing a wheelbarrow", "Riding an elevator", "Riding an escalator"
+      ]
+    },
+    "music": {
+      "name": "Music & Instruments",
+      "emoji": "🎵",
+      "prompts": [
+        "Playing piano", "Playing guitar", "Playing drums", "Playing violin", "Playing trumpet",
+        "Playing flute", "Playing saxophone", "Playing harmonica", "Playing accordion", "Playing banjo",
+        "Playing ukulele", "Playing cello", "Playing harp", "Playing xylophone", "Playing tambourine",
+        "Playing maracas", "Playing bongos", "Conductor leading orchestra", "Singing opera",
+        "Singing in shower", "Beatboxing", "Whistling", "Humming", "Snapping fingers to beat",
+        "Dancing ballet", "Dancing hip hop", "Line dancing", "Square dancing", "Breakdancing"
+      ]
+    },
+    "fantasy": {
+      "name": "Fantasy & Imagination",
+      "emoji": "🧙",
+      "prompts": [
+        "Dragon breathing fire", "Unicorn prancing", "Wizard casting spell", "Fairy flying",
+        "Giant stomping", "Mermaid swimming", "Knight fighting dragon", "Princess in tower",
+        "Pirate with sword", "Ninja sneaking", "Superhero flying", "Robot walking",
+        "Zombie shuffling", "Ghost floating", "Vampire", "Werewolf howling",
+        "Witch on broomstick", "Elf making toys", "Troll under bridge", "Leprechaun with gold",
+        "Genie coming out of lamp", "Alien in spaceship", "Monster under bed", "Invisible person"
+      ]
+    },
+    "history": {
+      "name": "History & Famous People",
+      "emoji": "📜",
+      "prompts": [
+        "Caveman with club", "Egyptian pharaoh", "Roman gladiator", "Medieval knight jousting",
+        "Viking with horned helmet", "Samurai with sword", "Cowboy in Wild West", "Native American chief",
+        "Pilgrim at Thanksgiving", "Revolutionary War soldier", "Civil War general",
+        "Abraham Lincoln", "George Washington crossing river", "Ben Franklin with kite",
+        "Wright Brothers flying", "Neil Armstrong on moon", "Martin Luther King Jr. speaking",
+        "Explorer with map", "Christopher Columbus sailing", "Lewis and Clark exploring"
+      ]
+    }
+  }
+}
