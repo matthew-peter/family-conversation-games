@@ -8,8 +8,9 @@ export type GameConfig = {
   color: string;
   buttonText?: string;
   dataKey?: string; 
-  mode: 'generator' | 'taboo' | 'rules'; 
+  mode: 'generator' | 'taboo' | 'team' | 'rules'; 
   rulesText?: string[];
+  teamGameType?: 'charades' | 'pictionary' | 'neanderthal'; // For team mode games
 };
 
 export const GAMES: GameConfig[] = [
@@ -30,7 +31,8 @@ export const GAMES: GameConfig[] = [
     color: "bg-fuchsia-500",
     buttonText: "Next Prompt",
     dataKey: "charades",
-    mode: "generator"
+    mode: "team",
+    teamGameType: "charades"
   },
   {
     id: "pictionary",
@@ -40,7 +42,8 @@ export const GAMES: GameConfig[] = [
     color: "bg-cyan-500",
     buttonText: "Next Word",
     dataKey: "pictionary",
-    mode: "generator"
+    mode: "team",
+    teamGameType: "pictionary"
   },
   {
     id: "riddles",
@@ -140,7 +143,8 @@ export const GAMES: GameConfig[] = [
     color: "bg-amber-500",
     buttonText: "New Word",
     dataKey: "contact", 
-    mode: "generator"
+    mode: "team",
+    teamGameType: "neanderthal"
   },
   {
     id: "contact",
